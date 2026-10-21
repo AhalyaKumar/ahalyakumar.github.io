@@ -64,7 +64,7 @@ const SITE_DATA = {
   },
 
   resume: {
-    downloadUrl: "resume/AhalyaKumarResume.pdf",
+    downloadUrl: "resume/AhalyaKumarResume (3).pdf",
     experience: [
       {
         company: "Doto Health (CareMother)",
