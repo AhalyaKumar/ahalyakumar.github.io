@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ahalyakumar2026.github.io/sitemap.xml
+Sitemap: https://ahalyakumar.github.io/sitemap.xml
